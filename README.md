@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working in SELISE digitals platfomrs as a Software Engineer.
 <!--
 **prodip-bsmrstu/prodip-bsmrstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
